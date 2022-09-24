@@ -14,12 +14,12 @@ How To Run:
 All required modules are installed all set to go....
 
 
-to fetch the app reviews use further arguements from the URLs
+to fetch the app reviews use further arguments from the URLs
 1)Google playstore URL: https://play.google.com/store/apps/details?id=com.instagram.android&hl=en_US&gl=US
-   use "com.instagram.android" as required arguement as used in line 8
+   use "com.instagram.android" as required argument as used in line 8
 
 2)AppStore URL:https://apps.apple.com/in/app/instagram/id389801252
-  use 'instagram' '389801252' as required arguement as used in line 14
+  use 'instagram' '389801252' as required argument as used in line 14
 
 
 please use those app available on both stores and app with few reviews to easy output.
